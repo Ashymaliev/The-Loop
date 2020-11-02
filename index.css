@@ -2,3 +2,14 @@
     font-family: Montserrat;
     width: 1170px;
 }
+
+.nav__list{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.nav__list li{
+display: flex;
+jc
+}
