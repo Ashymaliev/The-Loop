@@ -50,16 +50,16 @@ margin: 0;
 }
 
 .header__shop {
-  margin-left: 100px;
+  margin-left: 120px;
 }
 
 .shop__basket {
-  margin-right: 28px;
+  margin-right: 38px;
 }
 
 .shop__count span {
   position: relative;
-  padding: 2px 12px;
+  padding: 2px 15px;
   font-style: normal;
   font-weight: bold;
   font-size: 12px;

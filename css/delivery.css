@@ -16,8 +16,11 @@ letter-spacing: 0.02em;
 }
 
 .delivery__description {
-  margin-top: 20px;
-  font-style: normal;
-  font-weight: 300;
-	font-size: 21px;
+font-family: Montserrat;
+margin-top: 20px;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 26px;
+text-align: center;
 }
