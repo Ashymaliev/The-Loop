@@ -1,0 +1,43 @@
+.discounts{
+    margin-bottom: 150px;
+    background: #212121;
+}
+
+.discounts__content{
+    display: flex;
+}
+.discounts__title{
+    padding: 70px 0px;
+    font-style: normal;
+  font-weight: bold;
+font-size: 30px;
+line-height: 37px;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+}
+
+.input_mail{
+    margin: 70px 60px;
+    width: 250px;
+    height: 40px;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.02em;
+    color: #8D8D8D;
+}
+
+.follow{
+    margin-top: 70px;
+    width: 185px;
+height: 40px;
+    background: #D7B399;
+
+    font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+color: #FFFFFF;
+}
+

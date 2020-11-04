@@ -5,7 +5,7 @@
   }
   
   body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: Montserrat , sans-serif;
   }
   
   .container {
@@ -32,8 +32,15 @@
     width: 25%;
   }
   
+  .col-2{
+    width: 16.66%;
+  }
   .col-6 {
     width: 50%;
+  }
+
+  .col-5 {
+    width: 42%; 
   }
   
   .font-regular {
