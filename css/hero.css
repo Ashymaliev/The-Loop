@@ -77,9 +77,6 @@
     top: -34px;
   }
   
-  .col-6 {
-    width: 49%;
-  }
   
   .slick-initialized .slick-slide {
     display: flex;

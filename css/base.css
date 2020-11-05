@@ -31,6 +31,8 @@
   .col-3 {
     width: 25%;
   }
+
+
   
   .col-2{
     width: 16.66%;
@@ -46,9 +48,58 @@
   .font-regular {
     font-weight: 300;
   }
-  
+  .btn:hover svg {
+    fill: #d7b399;
+  }
   @media screen and (max-width: 1024px) {
     .col-6 {
       width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 578px) {
+    .col-3 {
+      width: 100%;
+    }
+  }
+  
+  .btn {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 18px 30px;
+    background-color: #d7b399;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    transition: 0.3s;
+    border: 2px solid transparent;
+  }
+  
+  .btn svg {
+    fill: #fff;
+    transition: fill 0.3s;
+  }
+  
+  .btn:hover {
+    background-color: #fff;
+    color: #d7b399;
+    border: 2px solid #d7b399;
+  }
+  
+  .btn:hover svg {
+    fill: #d7b399;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .btn {
+      font-size: 12px;
+      padding: 10px 20px;
+    }
+    .col-6 {
+      width: 100%;
+    }
+    .container {
+      padding: 0 25px;
     }
   }
