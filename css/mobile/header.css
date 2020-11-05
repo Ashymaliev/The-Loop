@@ -1,0 +1,9 @@
+@media screen and (max-width: 1024px){
+  .nav__menu{
+      display: none;
+  }
+
+  .header__logo{
+      margin-left: 10px;
+  }
+}
